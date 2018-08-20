@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cadhut.islamic.Quran16Line.MainActivity">
+
+
+    <item
+        android:id="@+id/back"
+        android:icon="@drawable/ic_chevron_left_black_24dp"
+        android:orderInCategory="100"
+        android:title="back"
+        app:showAsAction="always" />
+</menu>
